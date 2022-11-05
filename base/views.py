@@ -43,7 +43,7 @@ class RegisterPage(FormView):
     def get(self, *args, **kwargs):
         if self.request.user.is_authenticated:
             return redirect('tasks')
-        return super(RegisterPage, self).get(**args, **kwargs)
+        return super(RegisterPage, self).get(*args, **kwargs)
         
 # All views
 # All taks view
