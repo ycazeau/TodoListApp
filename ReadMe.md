@@ -20,7 +20,7 @@ Here is an overview of the implemented user stories:
 
 <img src='images/login.PNG' title='login' width='' alt='login' />
 <img src='images/register.PNG' title='register' width='' alt='register' />
-<img src='images/task-list.PNG' title='task-list' width='' alt='task-list' />
+<img src='images/tasks-list.PNG' title='task-list' width='' alt='task-list' />
 <img src='images/new-task.PNG' title='new-task' width='' alt='new-task' />
 
 ## Author
